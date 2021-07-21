@@ -38,7 +38,7 @@
     "@rollup/plugin-typescript": "^8.2.1",
     "@tsconfig/svelte": "^2.0.1",
     "@types/express": "^4.17.11",
-    "@types/node": "^15.12.1",
+    "@types/node": "^16.4.0",
     "esbuild": "^0.12.6",
     "npm-run-all": "^4.1.5",
     "postcss": "8.3.0",
